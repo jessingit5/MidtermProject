@@ -1,0 +1,4 @@
+2025-06-30 07:11:53,892 - CalculatorApp - INFO - Calculation: {'operand_a': 10.123, 'operand_b': 5.456, 'operation_name': 'add', 'result': 15.58, 'timestamp': '2025-06-30T07:11:53.892641'}
+2025-06-30 07:11:53,893 - CalculatorApp - INFO - Calculation: {'operand_a': 10, 'operand_b': 5, 'operation_name': 'add', 'result': 15, 'timestamp': '2025-06-30T07:11:53.893410'}
+2025-06-30 07:11:53,893 - CalculatorApp - INFO - Calculation: {'operand_a': 20, 'operand_b': 5, 'operation_name': 'subtract', 'result': 15, 'timestamp': '2025-06-30T07:11:53.893476'}
+2025-06-30 07:11:53,894 - CalculatorApp - INFO - Calculation: {'operand_a': 5.0, 'operand_b': 3.0, 'operation_name': 'add', 'result': 8.0, 'timestamp': '2025-06-30T07:11:53.894250'}
